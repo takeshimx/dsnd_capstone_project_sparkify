@@ -8,7 +8,7 @@ A web app is included, where an emergency worker can input a new message and get
 The highlights from the results of the analysis including insights from this dataset are shared below.
 
 1. The total number of unique users is 225 and who churned is 52 of them. The chart below describes the trend for who churned in termed of active days in the service.
-![image](![image](https://user-images.githubusercontent.com/29317778/211535229-f0dfdf6c-afb0-4d38-8767-6db7a1c7d05a.png))
+![image](https://user-images.githubusercontent.com/29317778/211535402-f3ae508b-f260-4a8d-a698-77980d87da01.png)
 
 
 ### File Descriptions

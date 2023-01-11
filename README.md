@@ -27,6 +27,7 @@ The highlights from the results of the analysis including insights from this dat
 ![image](https://user-images.githubusercontent.com/29317778/211536559-d119b8ef-c519-4477-9d76-a11d731fb9c0.png)
 
 7. Device and OS used<br>
+As shown in the chart below, 86%+ of all access to the service came from desktop.<br>
 ![newplot (1)](https://user-images.githubusercontent.com/29317778/211536872-9a1f46a9-4f79-498d-9821-6a30e34eab24.png)
 
 8. What browser did users access from?<br>

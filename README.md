@@ -10,14 +10,14 @@ The highlights from the results of the analysis including insights from this dat
 1. The total number of unique users is 225 and who churned is 52 of them. The chart below describes the trend for who churned in termed of active days in the service. The majority of them canceled within 100 days from registration.<br>
 ![image](https://user-images.githubusercontent.com/29317778/211535402-f3ae508b-f260-4a8d-a698-77980d87da01.png)
 
-2. Gender count
+2. Gender count<br>
 ![image](https://user-images.githubusercontent.com/29317778/211786769-9ce7dc3d-24fa-42d2-a13e-c3deeeed9cdc.png)
 
-3. Account type
+3. Account type<br>
 ![image](https://user-images.githubusercontent.com/29317778/211786908-73946ed2-eeb5-4c95-886d-06777b1fc82c.png)
 
-4. The charts below shows how users actions are distributed by users status who stayed vs. who canceled. 'NextSong' action is excluded due to its data skewness.
-![image](https://user-images.githubusercontent.com/29317778/211787558-48709009-90f5-4d4a-91f9-42e7eb3ea553.png)
+4. The charts below shows how users actions are distributed by users status who stayed vs. who canceled. 'NextSong' action is excluded due to its data skewness.<br>
+![image](https://user-images.githubusercontent.com/29317778/211787558-48709009-90f5-4d4a-91f9-42e7eb3ea553.png)<br>
 ![image](https://user-images.githubusercontent.com/29317778/211787615-3edbec57-6ce6-4165-9632-ef75e1cde7ec.png)
 
 5. Top 20 artists by play counts<br>

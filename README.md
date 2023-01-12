@@ -43,7 +43,7 @@ Features: please see below list of features used.<br>
 All the features above are converted to numerical variables for modeling.<br>
 
 As this is classification model, so 4 estimators LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, and GradientBoostingClassifier are used to train dataset for buidling ML models.<br>
-Of these 4 models, a model with LogisticRegression is slightly better than other 3 models.<br>
+Of these 4 models, a model with LogisticRegression is slightly better than other 3 models when we look at f1 score.<br>
 <img width="475" alt="Screenshot 2023-01-12 at 21 14 34" src="https://user-images.githubusercontent.com/29317778/212063884-917bcaf0-06e0-4644-b8a7-965f33194b08.png"><br>
 
 ### File Descriptions

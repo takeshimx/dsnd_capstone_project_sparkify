@@ -33,6 +33,18 @@ As shown in the chart below, 86%+ of all access to the service came from desktop
 8. What browser did users access from?<br>
 ![newplot (2)](https://user-images.githubusercontent.com/29317778/211537058-277fc789-b0c3-4f60-b650-ae4abbd56399.png)
 
+### Feature engineering and modeling
+Before modeling, we have to define a target variable and features as below.<br>
+<br>
+Target variable (label): churn
+Features: please see below list of features used.<br>
+<img width="495" alt="Screenshot 2023-01-12 at 21 05 06" src="https://user-images.githubusercontent.com/29317778/212062224-7b3cc8bf-aa93-469b-8a0f-56ff2565a34f.png"><br>
+
+All the features above are converted to numerical variables for modeling.<br>
+
+As this is classification model, so 4 estimators LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, and GradientBoostingClassifier are used to train dataset for buidling ML models.<br>
+Of these 4 models, a model with LogisticRegression is slightly better than other 3 models.<br>
+<img width="475" alt="Screenshot 2023-01-12 at 21 14 34" src="https://user-images.githubusercontent.com/29317778/212063884-917bcaf0-06e0-4644-b8a7-965f33194b08.png"><br>
 
 ### File Descriptions
 Below are files for this project.

@@ -42,14 +42,14 @@ Features: please see below list of features used.<br>
 
 All the features above are converted to numerical variables for modeling.<br>
 
-As this is classification model, so 4 estimators LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, and GradientBoostingClassifier are used to train dataset for buidling ML models.<br>
-Of these 4 models, a model with LogisticRegression is slightly better than other 3 models when we look at f1 score.<br>
-<img width="475" alt="Screenshot 2023-01-12 at 21 14 34" src="https://user-images.githubusercontent.com/29317778/212063884-917bcaf0-06e0-4644-b8a7-965f33194b08.png"><br>
+As this is classification model, so 3 estimators LogisticRegression, RandomForestClassifier, and GradientBoostingClassifier are used to train dataset for buidling ML models.<br>
+Of these 3 models, a model with GradientBoostingClassifier is better than the other 2 models when we look at f1 score.<br>
+![image](https://user-images.githubusercontent.com/29317778/213174952-4969aa65-558a-4df1-8a87-bd5720c0abe5.png)
 
 ### File Descriptions
 Below are files for this project.
 
-- Sparkify.ipynb # Jupyter notebook for EDA, feature engineering, and modeling
+- Sparkify_pandas.ipynb # Jupyter notebook for EDA, feature engineering, and modeling
 - README.md
 
 ### Libraris used

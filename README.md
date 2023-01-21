@@ -19,17 +19,14 @@ The highlights from the results of the analysis including insights from this dat
 ![image](https://user-images.githubusercontent.com/29317778/211787558-48709009-90f5-4d4a-91f9-42e7eb3ea553.png)<br>
 ![image](https://user-images.githubusercontent.com/29317778/211787615-3edbec57-6ce6-4165-9632-ef75e1cde7ec.png)
 
-5. Top 20 artists by play counts<br>
-![newplot](https://user-images.githubusercontent.com/29317778/211536421-6e9ece59-7c19-4b57-aef4-efb92acbc0f5.png)
-
-6. Distribution of song length<br>
+5. Distribution of song length<br>
 ![image](https://user-images.githubusercontent.com/29317778/211536559-d119b8ef-c519-4477-9d76-a11d731fb9c0.png)
 
-7. Device and OS used<br>
+6. Device and OS used<br>
 As shown in the chart below, 86%+ of all access to the service came from desktop.<br>
 ![newplot (1)](https://user-images.githubusercontent.com/29317778/211536872-9a1f46a9-4f79-498d-9821-6a30e34eab24.png)
 
-8. What browser did users access from?<br>
+7. What browser did users access from?<br>
 ![newplot (2)](https://user-images.githubusercontent.com/29317778/211537058-277fc789-b0c3-4f60-b650-ae4abbd56399.png)
 
 ### Feature engineering and modeling

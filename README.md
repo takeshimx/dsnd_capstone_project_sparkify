@@ -40,7 +40,8 @@ All the features above are converted to numerical variables for modeling.<br>
 
 As this is classification model, so 3 estimators LogisticRegression, RandomForestClassifier, and GradientBoostingClassifier are used to train dataset for buidling ML models.<br>
 Of these 3 models, a model with GradientBoostingClassifier is better than the other 2 models when we look at f1 score.<br>
-![image](https://user-images.githubusercontent.com/29317778/213174952-4969aa65-558a-4df1-8a87-bd5720c0abe5.png)
+<img width="312" alt="Screenshot 2023-01-21 at 21 04 46" src="https://user-images.githubusercontent.com/29317778/213866037-da28d6bf-0ac4-45f8-9e7f-4fe1f4c421e5.png">
+
 
 ### File Descriptions
 Below are files for this project.

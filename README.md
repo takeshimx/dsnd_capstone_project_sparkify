@@ -61,7 +61,7 @@ The following Python libraries were used in this project.
 - pyspark
 
 ### Blog link
-Please see the details of analysis, insights, modeling, and results from [here]().
+Please see the details of analysis, insights, modeling, and results from [here](https://medium.com/@inthemoshpit/customer-churn-at-sparkify-b9ce66720e13).
 
 ### Acknowledgements
 References below

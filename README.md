@@ -63,4 +63,10 @@ The following Python libraries were used in this project.
 Please see the details of analysis, insights, modeling, and results from [here]().
 
 ### Acknowledgements
+References below
+- [17 Strategies for Dealing with Data, Big Data, and Even Bigger Data](https://towardsdatascience.com/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260)
+- [Hyperparameter tuning in Python](https://towardsdatascience.com/hyperparameter-tuning-in-python-21a76794a1f7)
+- [Popular Classification Models for Machine Learning](https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/)
+- [A Straightforward Guide to Cleaning and Preparing Data in Python](https://towardsdatascience.com/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33)
+- [Data Leakage And Its Effect On The Performance of An ML Model](https://www.analyticsvidhya.com/blog/2021/07/data-leakage-and-its-effect-on-the-performance-of-an-ml-model/)
 
